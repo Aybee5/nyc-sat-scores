@@ -1,4 +1,4 @@
-#NYC Public School SAT Analysis
+# NYC Public School SAT Analysis
 
 ![New York City schoolbus](schoolbus.jpg)
 
